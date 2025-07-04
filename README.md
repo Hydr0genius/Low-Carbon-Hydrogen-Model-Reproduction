@@ -11,8 +11,8 @@ This repository contains the code and inputs for simulating and optimizing low-c
 ## 🚀 Quick start
 
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/Hydr0genius/Low-Carbon-Hydrogen-Model-Reproduction.git
+cd <Low-Carbon-Hydrogen-Model-Reproduction>
 python -m venv .venv
 .venv\Scripts\activate          # macOS/Linux: source .venv/bin/activate
 pip install -r requirements.txt
