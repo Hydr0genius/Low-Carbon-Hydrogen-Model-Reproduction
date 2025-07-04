@@ -1,6 +1,6 @@
 # Low-Carbon Hydrogen Optimization Model
 
-This repository contains the code and inputs for simulating and optimizing low-carbon hydrogen production across multiple possibly Accounting Rules and Input Parameters. See Methods
+This repository contains the code and inputs for simulating and optimizing low-carbon hydrogen production across multiple possibly Accounting Rules and Input Parameters. See Methods for additional details.
 
 ## 📦 Requirements
 
