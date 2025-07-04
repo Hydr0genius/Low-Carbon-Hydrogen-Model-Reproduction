@@ -1,0 +1,13 @@
+# Ignore virtual environment
+.venv/
+
+# Ignore outputs
+03 Outputs/
+05 Figures/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
