@@ -19,7 +19,8 @@ pycparser==2.22
 Pygments==2.19.2
 pyparsing==3.2.3
 pytz==2025.2
-pywinpty==2.0.15
+# pywin32==310 # Windows only
+# pywinpty==2.0.15
 PyYAML==6.0.2
 pyzmq==27.0.0
 rfc3986-validator==0.1.1
