@@ -45,3 +45,15 @@ websocket-client==1.8.0
 widgetsnbextension==4.0.14
 xmltodict==0.14.2
 zipp==3.23.0
+pandas>=2.2
+matplotlib>=3.8
+scipy>=1.13
+seaborn>=0.13
+pymatreader>=0.0.30
+tqdm>=4.66
+openpyxl>=3.1
+pulp>=2.8
+
+# Comment out Gurobi for usage of tools like Binder - as users need license to run. Otherwise use different solver e.g. pulp
+gurobipy>=11.0
+
